@@ -5,5 +5,5 @@
 <p>bash xxxxx.sh</p> 
 <p>press:</p>
 <p>'enter'</p>
-<p>the bash script will "apt update" and "apt upgrade" then install the required dependencies and compile the deamon</p>
+<p>the bash script will "apt update" and "apt upgrade" then install the required dependencies and compile the daemon</p>
 <p>(depending on the coin, some sciprts also build the linux QT)</p>
